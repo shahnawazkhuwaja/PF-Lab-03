@@ -1,3 +1,3 @@
 # PF-Lab-03
 PF Lab practice
-Lab 03
+Learniing C programming
